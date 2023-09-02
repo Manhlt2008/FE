@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 
 const Header: NextPage = () => {
   return (
-    <div className="self-stretch flex flex-row pt-[53px] pb-0 pr-[51px] pl-[83px] items-center justify-between text-center text-base text-gray font-open-sans md:pl-[30px] md:pr-[30px] md:box-border sm:pl-[30px] sm:pr-[30px] sm:box-border">
+    <div className="self-stretch flex flex-row pt-[53px] pb-0 pr-[51px] pl-[83px] items-center justify-between text-center text-base text-gray-100 font-open-sans md:pl-[30px] md:pr-[30px] md:box-border sm:pl-[30px] sm:pr-[30px] sm:box-border">
       <img
         className="relative w-[299px] h-[79px] md:w-[161px] sm:w-[161px] sm:h-[79px]"
         alt=""

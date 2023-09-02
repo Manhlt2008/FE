@@ -9,9 +9,12 @@ module.exports = {
       colors: {
         white: "#fff",
         yellowgreen: "#8abb3e",
-        gray: "#020202",
-        c1818: "#000",
+        gray: {
+          "100": "#020202",
+          "200": "rgba(28, 24, 24, 0.4)",
+        },
         goldenrod: "#fbc847",
+        c1818: "#000",
       },
       fontFamily: {
         "open-sans": "'Open Sans'",
