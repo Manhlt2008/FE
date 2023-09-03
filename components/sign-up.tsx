@@ -31,7 +31,7 @@ const SignUp: NextPage = () => {
         </div>
       </div>
       <img
-        className="absolute my-0 mx-[!important] top-[-61px] right-[7px] w-[126px] h-[174px] overflow-hidden shrink-0 hidden z-[1] md:flex"
+        className="absolute my-0 mx-[!important] top-[-61px] right-[7px] w-[126px] h-[174px] overflow-hidden shrink-0 hidden z-[1]"
         alt=""
         src="/layer-1.svg"
       />
