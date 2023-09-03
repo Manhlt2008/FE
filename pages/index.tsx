@@ -1,20 +1,13 @@
 import type { NextPage } from "next";
-import Header from "../components/header";
-import Welcome from "../components/welcome";
-import RaceName from "../components/race-name";
-import SignUp from "../components/sign-up";
-import Footer from "../components/footer";
 
-const PersonalizedBallot: NextPage = () => {
+const Index1: NextPage = () => {
   return (
-    <div className="relative w-full flex flex-col items-start justify-start">
-      <Header />
-      <Welcome />
-      <RaceName />
-      <SignUp />
-      <Footer />
+    <div className="relative bg-white w-full h-[222px] overflow-hidden text-center text-base text-black font-open-sans">
+      <b className="absolute top-[101px] left-[176px] leading-[19.68px]">
+        Homepage
+      </b>
     </div>
   );
 };
 
-export default PersonalizedBallot;
+export default Index1;
