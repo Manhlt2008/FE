@@ -40,7 +40,7 @@ const Footer: NextPage = () => {
               <img
                 className="relative w-[21.86px] h-[21.86px] overflow-hidden shrink-0"
                 alt=""
-                src="/instagram--negative.svg"
+                src="/instagram--negative1.svg"
               />
             </a>
             <a

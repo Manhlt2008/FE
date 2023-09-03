@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 
 const VoteInforSub: NextPage = () => {
   return (
-    <div className="self-stretch bg-white overflow-hidden flex flex-row flex-wrap pt-[94px] px-0 pb-[51px] items-start justify-center gap-[58px] text-center text-6xl text-c1818 font-open-sans">
+    <div className="self-stretch bg-white overflow-hidden flex flex-row flex-wrap pt-[94px] px-0 pb-[51px] items-start justify-center gap-[58px] text-center text-6xl text-c1818 font-open-sans md:pt-10 md:box-border">
       <div className="flex flex-col items-center justify-start gap-[26px]">
         <img
           className="relative rounded-xl w-[250px] h-[159px] overflow-hidden shrink-0 md:w-[177px] md:h-[108px]"
