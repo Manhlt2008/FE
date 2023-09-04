@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 
 const ContactContent: NextPage = () => {
   return (
-    <div className="self-stretch bg-white flex flex-row flex-wrap py-[99px] px-[30px] items-start justify-center gap-[150px] text-left text-31xl text-c1818 font-open-sans md:flex-col md:gap-[50px] md:items-center md:justify-center md:pt-[50px] md:pb-[50px] md:box-border">
+    <div className="self-stretch bg-white flex flex-row flex-wrap py-[129px] px-[30px] items-start justify-center gap-[150px] text-left text-31xl text-c1818 font-open-sans md:flex-col md:gap-[50px] md:items-center md:justify-center md:pt-[50px] md:pb-[50px] md:box-border">
       <img
         className="relative rounded-[17.67px] w-[307.67px] h-[138px] object-cover hidden md:flex"
         alt=""
