@@ -8,7 +8,7 @@ const Header: NextPage = () => {
         alt=""
         src="/logo.svg"
       />
-      <div className="flex flex-row py-0 pr-[33px] pl-0 items-center justify-end gap-[29px] md:hidden sm:hidden">
+      <div className="flex flex-row py-0 pr-[33px] pl-0 items-center justify-end gap-[29px] md:hidden sm:hidden mq1400:hidden">
         <b className="relative leading-[14.02px] uppercase lg:flex md:hidden">
           PERSONALIZE MY BALLOT
         </b>
@@ -24,7 +24,7 @@ const Header: NextPage = () => {
         </div>
       </div>
       <img
-        className="relative w-10 h-10 hidden md:flex sm:flex"
+        className="relative w-10 h-10 hidden md:flex sm:flex mq1400:flex"
         alt=""
         src="/menu.svg"
       />

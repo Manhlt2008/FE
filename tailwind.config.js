@@ -46,6 +46,9 @@ module.exports = {
       sm: {
         max: "420px",
       },
+      mq1400: {
+        raw: "screen and (max-width: 1400px)",
+      },
     },
   },
   corePlugins: {
