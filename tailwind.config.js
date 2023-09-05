@@ -34,6 +34,7 @@ module.exports = {
       "11xl": "30px",
       lg: "18px",
       "31xl": "50px",
+      mini: "15px",
       inherit: "inherit",
     },
     screens: {
@@ -46,8 +47,8 @@ module.exports = {
       sm: {
         max: "420px",
       },
-      mq1400: {
-        raw: "screen and (max-width: 1400px)",
+      xl: {
+        raw: "screen and (max-width: 1279px)",
       },
     },
   },
