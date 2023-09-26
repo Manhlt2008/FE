@@ -1,10 +1,10 @@
-<mxfile host="Electron" modified="2023-08-20T17:17:43.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="Ekt44fCrwBAGPfcrD4aM" version="21.6.8" type="device">
+<mxfile host="Electron" modified="2023-09-26T14:11:49.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="ESbhAIORSGCS_KfADMqM" version="21.7.5" type="device">
   <diagram name="Page-1" id="7tPZMLgK27jAf4N7I-bN">
-    <mxGraphModel dx="4145" dy="3040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2460" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aMjyn7jWP_kuOwagncxb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="aMjyn7jWP_kuOwagncxb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1210" y="-630" width="690" height="870" as="geometry" />
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -76,10 +76,10 @@
         <mxCell id="31Ca9OGTyPb5ueOjGdOw-33" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="680" y="-80" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--3" value="&lt;h1&gt;PROJECT STRUCTURE&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--3" value="&lt;h1&gt;PROJECT STRUCTURE&lt;/h1&gt;&lt;div&gt;Example&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-80" y="-530" width="390" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--5" value="a Mạnh" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--5" value="Coder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1290" y="-600" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="UjHn_VEx9oGrxOz2LI1--6" target="UjHn_VEx9oGrxOz2LI1--10" edge="1">
@@ -88,7 +88,7 @@
         <mxCell id="UjHn_VEx9oGrxOz2LI1--6" value="Figma design" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1460" y="-410" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--8" value="Tuan Ga" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--8" value="Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1720" y="-600" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="UjHn_VEx9oGrxOz2LI1--10" target="UjHn_VEx9oGrxOz2LI1--16" edge="1">
@@ -130,7 +130,7 @@
         <mxCell id="UjHn_VEx9oGrxOz2LI1--29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="UjHn_VEx9oGrxOz2LI1--24" target="UjHn_VEx9oGrxOz2LI1--28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--24" value="Đẩy lên branch mới và chưa lỗi" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--24" value="Gen code và đẩy lên branch mới và chữa lỗi" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1685" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="UjHn_VEx9oGrxOz2LI1--26" target="UjHn_VEx9oGrxOz2LI1--32" edge="1">
@@ -179,7 +179,7 @@
         <mxCell id="UjHn_VEx9oGrxOz2LI1--40" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="UjHn_VEx9oGrxOz2LI1--37" target="UjHn_VEx9oGrxOz2LI1--39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--37" value="bản feedback&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--37" value="bản feedback và figma update" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1460" y="50" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--44" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UjHn_VEx9oGrxOz2LI1--39" target="UjHn_VEx9oGrxOz2LI1--16" edge="1">
@@ -191,7 +191,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--39" value="Re-design theo fb" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--39" value="Re-design theo fb và figma upadte" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1685" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--42" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
@@ -205,10 +205,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--43" value="Text Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--43" value="Dev Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1495" y="-12" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UjHn_VEx9oGrxOz2LI1--50" value="Feed back ok" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="UjHn_VEx9oGrxOz2LI1--50" value="End Project" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1480" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--52" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="UjHn_VEx9oGrxOz2LI1--51" target="UjHn_VEx9oGrxOz2LI1--12" edge="1">
@@ -220,6 +220,39 @@
         </mxCell>
         <mxCell id="UjHn_VEx9oGrxOz2LI1--51" value="Start Project" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1480" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-1" value="Lợi lích" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-480" width="240" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-2" value="1) Tiết kiệm thời gian trong việc đưa ra sản phẩm demo (**)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-1">
+          <mxGeometry y="30" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-3" value="2) Dễ tiếp cận đối với các intern" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-1">
+          <mxGeometry y="80" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-4" value="3) Cắt HTML đẹp và sát hơn với thiết kế của khách hàng (khi khách hàng đã có thiết kế trên figma)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-1">
+          <mxGeometry y="110" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-11" value="3) Cắt HTML đẹp và sát hơn với thiết kế của khách hàng (khi khách hàng đã có thiết kế trên figma)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-1">
+          <mxGeometry y="200" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-5" value="Bất cập" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-480" width="240" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-6" value="1) bất cập khi các fucntion dever đã đưa hàm vào trong các element component thì khi có chỉnh sửa ở phía UI sẽ phải cắt ghép lại code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-5">
+          <mxGeometry y="30" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-7" value="2) Khách hầu như không có file figma cuối cùng mà họ update dần dẫn đến việc phải dùng locofy để gen lại nhiều lần khi đang code dẫn dến ý 1) phải thực hiện nhiệu lần" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-5">
+          <mxGeometry y="140" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-8" value="3) Platform vẫn đang ở beta và còn lỗi khi gen code và làm chỉnh sửa lại mới chạy được&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-5">
+          <mxGeometry y="270" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-16" value="4) Code được gen ra vẫn chưa được tối ưu cho việc dev của coder, (vẫn còn bị lỗi double pucliv asset)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-5">
+          <mxGeometry y="340" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X-Ho_ltQGvJMhYXCLm-n-17" value="5) Viết lại cả file nếu có sự thay đổi trong thiết kế dẫn đến khó khăn cho func dever khi bên UI update mới&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="X-Ho_ltQGvJMhYXCLm-n-5">
+          <mxGeometry y="420" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
